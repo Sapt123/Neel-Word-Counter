@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Neel-Word-Counter/static/css/main.da997561.css",
+    "main.js": "/Neel-Word-Counter/static/js/main.8c58d08f.js",
+    "static/js/787.61089b84.chunk.js": "/Neel-Word-Counter/static/js/787.61089b84.chunk.js",
+    "index.html": "/Neel-Word-Counter/index.html",
+    "main.da997561.css.map": "/Neel-Word-Counter/static/css/main.da997561.css.map",
+    "main.8c58d08f.js.map": "/Neel-Word-Counter/static/js/main.8c58d08f.js.map",
+    "787.61089b84.chunk.js.map": "/Neel-Word-Counter/static/js/787.61089b84.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.da997561.css",
+    "static/js/main.8c58d08f.js"
+  ]
+}
